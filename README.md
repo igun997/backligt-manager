@@ -28,4 +28,4 @@ CGO_ENABLED=1 go build -o backlight_manager
 
 ### Screenshoot 
 
-![Backlight Manager Screenshot](https://raw.githubusercontent.com/igun997/backligt-manager/master/screenshot.png)
+![Backlight Manager Screenshot](https://github.com/igun997/backligt-manager/blob/master/screenshoot.png?raw=true)
